@@ -1,6 +1,6 @@
 ## Output
 
-![Program output](output.pngxt)
+![Program output](output.png)
 
 As text:
 Key: 95ce2d1a16fde76dee842c90f126aab9
